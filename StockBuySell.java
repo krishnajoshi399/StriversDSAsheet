@@ -1,4 +1,10 @@
+/*
 
+n = 6
+prices [7, 1, 5, 3, 6, 4]
+Max Profit = 5
+
+*/
 
 import java.util.Scanner;
 
